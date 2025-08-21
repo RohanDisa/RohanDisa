@@ -1,6 +1,6 @@
 # 👋 Hi there!    
 
-I love building things that combine **intelligence + usability** — from applied machine learning models to scalable web apps powered by modern cloud solutions.  
+I enjoy creating solutions that blend intelligence with usability — from building applied machine learning models that tackle real-world challenges to developing full-stack applications where AI features are seamlessly integrated into the user experience.
 
 ## 🔧 Tech Stack & Skills  
 
