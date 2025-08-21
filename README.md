@@ -19,6 +19,5 @@ I love building things that combine **intelligence + usability** — from applie
 ## 🌱 What I’m Into  
 - Exploring how **AI can seamlessly integrate** with everyday applications  
 - Building end-to-end projects that bring research ideas to real-world use cases  
-- Collaborating on open-source and cloud-native solutions  
 
 Let’s connect and create something awesome! 🚀
