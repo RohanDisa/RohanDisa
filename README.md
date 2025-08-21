@@ -5,11 +5,29 @@ I’m currently pursuing my **M.S. in Computer Science at the University of Sout
 I love building things that combine **intelligence + usability** — from applied machine learning models to scalable web apps powered by modern cloud solutions.  
 
 ## 🔧 Tech Stack & Skills  
-- **AI/ML**: NLP, Computer Vision, Machine Learning, Scikit-learn, Pandas, OpenCV, YOLO  
-- **Frameworks & Tools**: LangChain, Docker  
-- **Web Development**: MERN (MongoDB, Express, React, Node.js)  
-- **Cloud**: AWS  
-- **Programming Languages**: Python, C++, JavaScript  
+
+**AI/ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=darkreader&logoColor=black)  
+
+**Web Development**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+
+**Cloud & Tools**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)  
+
+**Programming Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+  
 
 ## 🌱 What I’m Into  
 - Exploring how **AI can seamlessly integrate** with everyday applications  
